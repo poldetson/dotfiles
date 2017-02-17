@@ -2,15 +2,17 @@
 if &compatible
     set nocompatible
 endif
+
+"----------------------------------------------------------------------
+" for dein
+"----------------------------------------------------------------------
 "set runtimepath+=~/.vim/bundle/repos/github.com/Shougo/dein.vim
 "set runtimepath+=~/.vim/bundle/repos/github.com/Shougo/dein.vim/bin
-
 "call dein#begin(~/.vim/bundle/)
-
 "call dein#add(~/.vim/bundle/repos/github.com/Shougo)
 "call dein#add('Shougo/neocomplete.vim')
-
 "call dein#end()
+
 "filetype plugin indent on
 
 "----------------------------------------------------------------------
